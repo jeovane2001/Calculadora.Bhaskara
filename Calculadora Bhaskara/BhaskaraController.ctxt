@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=BhaskaraController
+comment0.text=\r\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ BhaskaraController\ aqui.\r\n\ \r\n\ @author\ jeovane2001\ \r\n\ @version\ 02/05/2024\r\n
+comment1.params=
+comment1.target=BhaskaraController()
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ BhaskaraContoller\r\n
+comment2.params=
+comment2.target=void\ iniciar()
+comment3.params=e
+comment3.target=void\ botaoCalcularClicado(javafx.event.Event)
+comment4.params=e
+comment4.target=void\ botaoLimparClicado(javafx.event.Event)
+numComments=5

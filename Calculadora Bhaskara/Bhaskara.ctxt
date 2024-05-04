@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Bhaskara
+comment0.text=\r\n\ m\u00F3delo\ de\ calcuylo\ de\ \ Bhaskara\ .\r\n\ \r\n\ @author\ jeovane2001\ \r\n\ @version\ 01/05/2024\r\n
+comment1.params=
+comment1.target=Bhaskara()
+comment2.params=a\ b\ c
+comment2.target=Bhaskara(double,\ double,\ double)
+comment3.params=
+comment3.target=java.lang.String\ CalcularBhaskara()
+numComments=4
